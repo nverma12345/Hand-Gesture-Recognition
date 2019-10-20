@@ -9,5 +9,8 @@ Hand Gesture Recognition using python
 
 ## Screen-Shots
 
+<p>
 <img src="https://user-images.githubusercontent.com/36808495/67163077-57768e00-f388-11e9-8466-c90a6e73656c.png" width="430" height="320">
 <img src="https://user-images.githubusercontent.com/36808495/67163108-8d1b7700-f388-11e9-885c-0231338fb6f4.png" width="430" height="320">
+</p>  
+
